@@ -53,7 +53,7 @@ class ProductCard extends StatelessWidget {
                               },
                               icon: const Icon(
                                 Icons.favorite_outline,
-                                color: MyColors.darkred,
+                                color: MyColors.silver,
                               )),
                         )
                       ],
